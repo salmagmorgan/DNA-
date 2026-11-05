@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "title": "Developers' DNA",
+    "edition": "Egypt Real Estate · 2026",
+    "publisher": "The Board Consulting",
+    "publisherTagline": "Actualizing Opportunities",
+    "seriesLabel": "Strategic Insights 2026",
+    "sourceCitation": "The Board Consulting, *Developers' DNA Report*, Strategic Insights 2026",
+    "footer": "Strategic Insights · The Board Consulting\nActualizing Opportunities",
+    "brandImages": {
+      "monogram": "brand/tbc-monogram-white.png",
+      "productLogo": "brand/dna-logo.png"
+    }
+  },
+  "overview": {
+    "readme": "This dashboard is built from The Board Consulting's 2026 *Developers' DNA Report* — 170 pages on brand equity across 15 of Egypt's leading real estate developers. Use **⌘K** to jump to any developer, zone or finding. Click any tile, chip or bar to go deeper. A full log of source-deck data checks lives under **Notes** in the sidebar.",
+    "kicker": "The Board Consulting · Strategic Insights 2026",
+    "title": "Developers' DNA",
+    "sub": "Egypt's real estate developers no longer compete on product — they compete on brand. This is the map of who's winning, who's exposed, and why.",
+    "objective": {
+      "headline": "A first-of-its-kind syndicated diagnostic that decodes, measures, and benchmarks the unique brand identity of Egypt's top real estate developers.",
+      "body": "Built to replace internal guesswork with a shared, scored language — where each brand truly stands, and what to do about it."
+    },
+    "methodology": {
+      "stats": [
+        {
+          "v": "32+",
+          "l": "Qual. interviews"
+        },
+        {
+          "v": "500+",
+          "l": "Buyer surveys"
+        },
+        {
+          "v": "15",
+          "l": "Developers"
+        },
+        {
+          "v": "8",
+          "l": "Brand health studies"
+        }
+      ],
+      "body": "Qualitative depth (32+ interviews with experts and buyers) paired with quantitative scale (500+ purchaser surveys, 8 brand-health studies across East Cairo, West Cairo and the North Coast) — scored through the Anatomy, Positioning and Brand Essence models."
+    },
+    "thesis": {
+      "quote": "\"Real estate today is no longer just about projects; it's about brands that hold the cues of credibility, trust, and desirability.\"",
+      "body": "When product, price and payment plans look identical across the market, the developer's own name becomes the deciding factor — brand equity is the new currency."
+    },
+    "modelTiles": [
+      {
+        "img": "models/positioning.jpg",
+        "title": "Brand Fitness Index",
+        "desc": "11-zone positioning map plotting Credibility × Premiumness for all 15 developers.",
+        "go": "index"
+      },
+      {
+        "img": "models/anatomy.jpg",
+        "title": "Anatomy Model",
+        "desc": "7-dimension execution model — Left Brain, Heart, Legs, Right Brain, Mouth, Muscles, Hands.",
+        "go": "appendix"
+      },
+      {
+        "img": "models/archetypes.jpg",
+        "title": "Archetype Wheel",
+        "desc": "12 brand archetypes mapped to the core drive each developer brand expresses.",
+        "go": "appendix"
+      },
+      {
+        "img": "models/essence.jpg",
+        "title": "Brand Essence Model",
+        "desc": "5-layer model from objective Attributes up to each developer’s Core Essence.",
+        "go": "appendix"
+      }
+    ],
+    "findingsShown": 6
+  },
+  "objectives": {
+    "kicker": "Section 00 · Methodology",
+    "sub": "A syndicated diagnostic that decodes, measures, and benchmarks the unique identity of Egypt's top real estate developers — built to be acted on, not just read.",
+    "whatItIs": "\"A first-of-its-kind syndicated diagnostic that decodes, measures, and benchmarks the unique identity of Egypt's top real estate developers.\"",
+    "pillars": [
+      {
+        "n": "01",
+        "t": "Decode",
+        "d": "Break down each developer’s brand into its core genetic components — strategy, emotion, expansion, innovation, voice, execution and operations."
+      },
+      {
+        "n": "02",
+        "t": "Measure",
+        "d": "Quantify credibility and premiumness for all 15 developers through a scored, repeatable index rather than subjective impression."
+      },
+      {
+        "n": "03",
+        "t": "Benchmark",
+        "d": "Place every developer’s brand health against the full \"Elite 10\"+ competitive set, not in isolation."
+      },
+      {
+        "n": "04",
+        "t": "Identify",
+        "d": "Surface the specific zone, archetype and essence each developer brand actually occupies today — not the one it claims."
+      },
+      {
+        "n": "05",
+        "t": "Empower",
+        "d": "Turn the diagnostic into decisions — where to invest, what to fix, and which whitespace to move into next."
+      }
+    ],
+    "impact": [
+      {
+        "t": "Comprehensive diagnostic",
+        "d": "7 key dimensions assessed per developer, from strategic thinking to on-ground execution."
+      },
+      {
+        "t": "Data-driven insights",
+        "d": "Unbiased, market-wide analysis of 15 developers — not a single client’s self-assessment."
+      },
+      {
+        "t": "Strategic clarity",
+        "d": "A shared, scored language for where each brand stands, replacing internal guesswork."
+      },
+      {
+        "t": "Empowered decisions",
+        "d": "Findings built to be acted on directly — positioning, product and communication choices alike."
+      }
+    ],
+    "models": [
+      {
+        "t": "Anatomy Model",
+        "d": "Multi-dimensional DNA framework — 7 weighted execution dimensions.",
+        "go": "index"
+      },
+      {
+        "t": "Positioning Index",
+        "d": "Credibility × Premiumness mapping across 11 brand-health zones.",
+        "go": "index"
+      },
+      {
+        "t": "Brand Essence Model",
+        "d": "The core essence driving each brand's relevance, resonance and equity.",
+        "go": "appendix"
+      }
+    ],
+    "researchStats": [
+      {
+        "v": "32+",
+        "l": "In-depth qualitative interviews"
+      },
+      {
+        "v": "500+",
+        "l": "Completed questionnaires, recent purchasers"
+      },
+      {
+        "v": "50+",
+        "l": "Hours of qualitative insight"
+      },
+      {
+        "v": "8",
+        "l": "Brand health studies, 2025"
+      }
+    ],
+    "qualitative": "32+ in-depth interviews — 7+ with senior market experts, alongside 25+ with existing buyers and intenders.",
+    "quantitative": "500+ completed questionnaires from purchasers within the last two years. Positioning Index scoring drawn from 8 brand health studies across 2025, covering 50 customers and 15 brokers across East Cairo, West Cairo and the North Coast.",
+    "agenda": [
+      {
+        "n": "01",
+        "t": "Survival of the Fittest",
+        "s": "What actually drives a project choice today",
+        "go": "context"
+      },
+      {
+        "n": "02",
+        "t": "Demystifying the Ecosystem",
+        "s": "Market correction, growth and commoditization",
+        "go": "context"
+      },
+      {
+        "n": "03",
+        "t": "Regional Scope",
+        "s": "Regional awareness and brand health funnels",
+        "go": "map"
+      },
+      {
+        "n": "04",
+        "t": "Brand Fitness Index",
+        "s": "The 11-zone Credibility × Premiumness quadrant",
+        "go": "index"
+      },
+      {
+        "n": "05",
+        "t": "Decoding Each Developer’s DNA",
+        "s": "Full profile — persona, essence, anatomy — for all 15",
+        "go": "explorer"
+      },
+      {
+        "n": "06",
+        "t": "The Market Blueprint",
+        "s": "Cross-category capability and expression volume",
+        "go": "blueprint"
+      },
+      {
+        "n": "07",
+        "t": "Key Takeouts & Evolution Questions",
+        "s": "What separates winners from everyone else",
+        "go": "takeouts"
+      },
+      {
+        "n": "08",
+        "t": "Appendix",
+        "s": "Model definitions and methodology detail",
+        "go": "appendix"
+      }
+    ]
+  },
+  "context": {
+    "kicker": "Section 01–02 · Survival of the Fittest · Demystifying the Ecosystem",
+    "sub": "What's actually driving purchase decisions right now, and how the ecosystem around developers is being reshaped by a market correction.",
+    "choiceDrivers": {
+      "items": [
+        {
+          "l": "Developer Reputation",
+          "v": 26,
+          "c": "var(--indigo)"
+        },
+        {
+          "l": "Location",
+          "v": 22,
+          "c": "var(--navy)"
+        },
+        {
+          "l": "Price / Payment Plan",
+          "v": 19,
+          "c": "var(--teal)"
+        },
+        {
+          "l": "Unit Design & Finishing",
+          "v": 14,
+          "c": "var(--gold)"
+        },
+        {
+          "l": "Masterplan & Amenities",
+          "v": 11,
+          "c": "var(--lav)"
+        },
+        {
+          "l": "Delivery Track Record",
+          "v": 8,
+          "c": "var(--red)"
+        }
+      ],
+      "source": "Source: Project Choice Drivers, p.8–9"
+    },
+    "brandEquity": {
+      "title": "Brand Equity Is The New Currency",
+      "body": "The developer's **name** now weighs as heavily as location and price in the buying decision. As physical product, finishes and payment terms converge across the market, the brand behind the project has become the ultimate tie-breaker — the one lever that's hardest for competitors to copy.",
+      "footer": "Winners will compete on identity, not just presence."
+    },
+    "buyerStages": [
+      {
+        "t": "Scattered-minded",
+        "s": "6+ developers considered",
+        "v": "3%",
+        "d": "-23pp YoY",
+        "trend": "down",
+        "note": "Collapsed almost entirely — buyers no longer browse widely."
+      },
+      {
+        "t": "Divide-minded",
+        "s": "2–5 developers considered",
+        "v": "75%",
+        "d": "+15pp YoY",
+        "trend": "up",
+        "note": "Now the dominant buyer behavior — a narrowed, protective shortlist."
+      },
+      {
+        "t": "Exclusive-minded",
+        "s": "1 developer considered",
+        "v": "22%",
+        "d": "+8pp YoY",
+        "trend": "up",
+        "note": "\"The next shift may no longer be from ‘many to few,’ but from ‘few to one.’\""
+      }
+    ],
+    "effect": {
+      "value": "55% → 20%",
+      "label": "Investment-driven buyers, one year",
+      "body": "As speculative, short-term investment demand collapsed, a large share of transactions vanished from the market entirely. Developers have responded with:",
+      "responses": [
+        "Extended payment plans",
+        "Increased cash discounts",
+        "Smaller, \"livable\" 2–3 bedroom unit mixes",
+        "A shift from investor-led to end-user-driven offerings"
+      ]
+    },
+    "growth": {
+      "bars": [
+        {
+          "label": "2021",
+          "v": 28
+        },
+        {
+          "label": "2022",
+          "v": 41
+        },
+        {
+          "label": "2023",
+          "v": 33
+        },
+        {
+          "label": "2024 / 2025*",
+          "v": 19,
+          "highlight": true
+        }
+      ],
+      "note": "Source labeling for the most recent bar is ambiguous between a 2024 and 2025 read in the original deck — shown here with both years referenced qualitatively rather than asserted as one figure."
+    },
+    "commoditization": {
+      "title": "Commoditization is compressing the old playbook",
+      "body": "Design language, amenities, and payment structures have become near-identical across the \"Elite 10\" developers. Where a masterplan once took years to copy, a competing launch now appears within a single sales cycle. The market has moved past a correction and settled into intensified, permanent competition — meaning developers can no longer out-build their way to differentiation. Brand, not product, is the remaining lever."
+    }
+  },
+  "regional": {
+    "kicker": "Section 03 · Regional Scope",
+    "sub": "Awareness and brand-health funnel strength vary sharply by region — a developer dominant in one corridor can be nearly invisible in another.",
+    "defaultRegion": "east",
+    "awarenessIntro": "Awareness is saturated… but mental leadership is scarce. Top of Mind is highly concentrated — real competition is mental availability.",
+    "compareIntro": "Click any column heading to sort. Click a developer row to connect it across the table — a dash means that developer wasn't tracked in that region's survey.",
+    "compareReading": "Reading the table: **Awareness** is total aided awareness in that region; **Intent** is the share who said they'd \"definitely want to purchase\" after considering the brand — the funnel's final, most predictive stage."
+  },
+  "index": {
+    "kicker": "Section 04 · Brand Fitness Index",
+    "sub": "Every developer plotted on Credibility × Premiumness — the two axes that determine which of 11 brand-health zones a developer actually occupies.",
+    "sourceImage": "models/positioning.jpg",
+    "sourceTitle": "Source Reference — Brand Fitness Index (p.34)",
+    "sourceNote": "The quadrant above is an interactive reconstruction, cross-validated against every developer's reported score; this is the report's own definitive source visual, kept for reference."
+  },
+  "explorer": {
+    "kicker": "Section 05 · Decoding Each Developer's DNA",
+    "sub": "Full brand profile for each of the 15 developers — snapshot, persona, essence, communication, archetype and anatomy."
+  },
+  "blueprint": {
+    "kicker": "Section 06 · The Market Blueprint",
+    "sub": "Who actually has cross-category capability, and who is spending loudest across each communication channel.",
+    "source": "Source: The Market Blueprint, p.148–149."
+  },
+  "takeouts": {
+    "kicker": "Section 07 · Key Takeouts & Evolution Questions",
+    "sub": "What separates the winners from everyone else, and the open questions the market hasn't answered yet.",
+    "thesis": "Brand equity has replaced product and price as the primary competitive battleground in Egyptian real estate — and most developers are still competing on the old terms.",
+    "winners": [
+      "EMAAR, SODIC and G Developments sustain Luxury Icons status through continuous proof, not one-time launches.",
+      "Marakez, SODIC, Emaar and TMG operate as true ecosystem builders across Residential, Commercial and Hospitality.",
+      "TMG and Mountain View convert scale into dominant, defensible sales leadership in their core regions."
+    ],
+    "others": [
+      "Several mid-tier developers show a wide credibility–premiumness gap — trusted, but not yet seen as premium.",
+      "Marketing volume without delivery discipline (reputational risk) shows up repeatedly as a vulnerability across mid-tier players.",
+      "Al Ahly Sabbour sits alone in Critical Risk — the report recommends it resolve delivery and maintenance issues before any expansion."
+    ],
+    "questions": [
+      "How does a developer move from Delivery Masters or Mass Market Giants into genuine premium territory without losing the trust that scale built?",
+      "What does it take to defend a Luxury Icons position once competitors inevitably copy the playbook?",
+      "Can marketing volume ever substitute for delivery discipline, or does the gap always resurface at handover?",
+      "As investment-driven demand keeps shrinking, which developers are actually built for an end-user-first market?",
+      "Where is the next whitespace — commercial, hospitality, or an entirely new category — before the \"Elite 10\" occupy it too?",
+      "Which brand archetype will define the next generation of Egyptian developers as the market matures past scale alone?"
+    ]
+  },
+  "compare": {
+    "defaultSelection": [
+      "emaar",
+      "tmg"
+    ],
+    "maxSelection": 3
+  },
+  "appendix": {
+    "kicker": "Section 08 · Appendix & Methodology",
+    "sub": "The frameworks behind this report, in full — definitions, weights, and applied live to a real developer.",
+    "defaultDeveloper": "emaar",
+    "sources": {
+      "anatomy": {
+        "img": "models/anatomy.jpg",
+        "label": "Source reference — Anatomy Model (p.159)"
+      },
+      "essence": {
+        "img": "models/essence.jpg",
+        "label": "Source reference — Brand Essence Model (p.163)"
+      },
+      "archetypes": {
+        "img": "models/archetypes.jpg"
+      }
+    },
+    "livable": [
+      {
+        "band": "Under 120 sqm",
+        "regions": "East & West Cairo entry-tier projects"
+      },
+      {
+        "band": "120–180 sqm",
+        "regions": "The dominant \"livable\" band across most 2026 launches"
+      },
+      {
+        "band": "180–250 sqm",
+        "regions": "Mid-to-upper tier family units, East Cairo & North Coast"
+      },
+      {
+        "band": "250+ sqm",
+        "regions": "Luxury Icons and Elite Trusted zone flagship units"
+      }
+    ],
+    "methodology": "This report combines quantitative sales data, a multi-region consumer awareness survey, and qualitative brand analysis across 15 of Egypt's leading real estate developers. See the **Report notes & data checks** drawer (sidebar) for every flagged approximation or source-deck inconsistency encountered in both the original report and this dashboard's reconstruction of it."
+  },
+  "notesFooter": "Source: The Board Consulting, *Developers' DNA Report*, Strategic Insights 2026. This drawer exists so every approximation and source-deck inconsistency encountered while building this dashboard is disclosed rather than silently smoothed over."
+}

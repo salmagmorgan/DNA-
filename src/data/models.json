@@ -1,0 +1,176 @@
+{
+  "anatomyDims": [
+    {
+      "id": "lb",
+      "label": "Left Brain",
+      "sub": "Strategic Thinking",
+      "weight": 15,
+      "desc": "How the developer thinks, plans, and directs its growth — clarity and distinctiveness of strategic vision, reflected across projects, communication, and customer experience."
+    },
+    {
+      "id": "heart",
+      "label": "Heart",
+      "sub": "Emotional Equity",
+      "weight": 10,
+      "desc": "The emotional territory the developer owns in consumers’ minds — the strength and consistency of that emotional connection."
+    },
+    {
+      "id": "legs",
+      "label": "Legs",
+      "sub": "Expansion Reach",
+      "weight": 15,
+      "desc": "The developer’s ability to expand, evolve, and sustain future growth — footprint inside/outside Cairo and outside Egypt, plus presence in commercial and hospitality."
+    },
+    {
+      "id": "rb",
+      "label": "Right Brain",
+      "sub": "Innovation Capacity",
+      "weight": 10,
+      "desc": "Capacity to introduce new ideas, products, and masterplans — product innovation, lifestyle innovation, masterplanning innovation."
+    },
+    {
+      "id": "mouth",
+      "label": "Mouth",
+      "sub": "Communication Voice",
+      "weight": 10,
+      "desc": "How clearly and powerfully the developer communicates its brand to the market — innovation and frequency of communication efforts."
+    },
+    {
+      "id": "muscles",
+      "label": "Muscles",
+      "sub": "Execution Power",
+      "weight": 25,
+      "desc": "Resources it leverages to build, deliver, and commercialize — construction capability, delivery reliability, commercial/hospitality muscle."
+    },
+    {
+      "id": "hands",
+      "label": "Hands",
+      "sub": "Operational Strengths",
+      "weight": 15,
+      "desc": "Facility and community management — community engagement (apps, events) and facility management (landscape, security)."
+    }
+  ],
+  "archetypes": [
+    {
+      "id": "Sage",
+      "drive": "Understanding",
+      "desc": "Seeks knowledge, truth and deeper understanding; rational, informed and fact-driven."
+    },
+    {
+      "id": "Explorer",
+      "drive": "Freedom",
+      "desc": "Seeks independence, discovery and new experiences; dislikes restriction."
+    },
+    {
+      "id": "Outlaw",
+      "drive": "Liberation",
+      "desc": "Challenges conventions and established norms; bold, independent and disruptive."
+    },
+    {
+      "id": "Magician",
+      "drive": "Power",
+      "desc": "Focused on transformation and possibility; turns ambition into exceptional outcomes."
+    },
+    {
+      "id": "Hero",
+      "drive": "Mastery",
+      "desc": "Motivated by achievement, competence and overcoming challenges."
+    },
+    {
+      "id": "Lover",
+      "drive": "Intimacy",
+      "desc": "Seeks emotional fulfilment, meaningful relationships, beauty and connection."
+    },
+    {
+      "id": "Jester",
+      "drive": "Enjoyment",
+      "desc": "Brings energy and spontaneity; seeks fun and positive experiences."
+    },
+    {
+      "id": "Everyman",
+      "drive": "Belonging",
+      "desc": "Seeks connection, familiarity and community; values authenticity and accessibility."
+    },
+    {
+      "id": "Caregiver",
+      "drive": "Service",
+      "desc": "Focused on supporting, protecting and nurturing others; creates comfort and wellbeing."
+    },
+    {
+      "id": "Ruler",
+      "drive": "Control",
+      "desc": "Seeks stability, authority and control; values order and excellence."
+    },
+    {
+      "id": "Creator",
+      "drive": "Innovation",
+      "desc": "Driven by originality and self-expression; turns ideas into something distinctive."
+    },
+    {
+      "id": "Innocent",
+      "drive": "Safety",
+      "desc": "Seeks safety, simplicity and optimism; drawn to trustworthy, comfortable environments."
+    }
+  ],
+  "essenceLayers": [
+    {
+      "n": "01",
+      "t": "Attributes",
+      "v": "What is objectively true about the developer? Heritage, portfolio, reach, capabilities, delivery record, communication."
+    },
+    {
+      "n": "02",
+      "t": "Functional & Emotional Benefits",
+      "v": "What does that reality give customers — and how does it make them feel? Convenience, confidence, safety, belonging, choice, status."
+    },
+    {
+      "n": "03",
+      "t": "Personality",
+      "v": "If the developer were a person, how would it naturally behave and come across? Expert, approachable, bold, caring, refined, reassuring."
+    },
+    {
+      "n": "04",
+      "t": "Values",
+      "v": "What principles consistently guide its choices and relationships? Trust, community, ambition, innovation, responsibility, quality."
+    },
+    {
+      "n": "05",
+      "t": "Core Essence",
+      "v": "The shortest, most distinctive expression that unifies all four layers — not a slogan, the strategic idea the brand should consistently embody."
+    }
+  ],
+  "funnelTiers": [
+    {
+      "t": "Full-Funnel Leaders",
+      "n": "01",
+      "width": 100,
+      "color": "#12805a",
+      "bg": "rgba(18,128,90,.10)",
+      "desc": "Lead across the entire funnel, from awareness to purchase — the benchmark for end-to-end brand effectiveness."
+    },
+    {
+      "t": "Selective Closers",
+      "n": "02",
+      "width": 78,
+      "color": "#2159b8",
+      "bg": "rgba(33,89,184,.10)",
+      "desc": "Smaller entry into the funnel, but strong purchase intent once a buyer actually considers them."
+    },
+    {
+      "t": "Strong Equity, Selective Appeal",
+      "n": "03",
+      "width": 56,
+      "color": "#b8860b",
+      "bg": "rgba(184,134,11,.10)",
+      "desc": "High awareness but limited funnel penetration — converts relatively well once considered, likely constrained by price, accessibility or niche positioning."
+    },
+    {
+      "t": "High Awareness, Weak Funnel Penetration",
+      "n": "04",
+      "width": 36,
+      "color": "#c0392b",
+      "bg": "rgba(192,57,43,.10)",
+      "desc": "Well-known brands that struggle to enter buyers' active consideration set — limited ability to convert awareness into purchase intent."
+    }
+  ]
+}

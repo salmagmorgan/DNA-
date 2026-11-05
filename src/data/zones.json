@@ -1,0 +1,178 @@
+[
+  {
+    "id": "luxury-icons",
+    "name": "Luxury Icons",
+    "band": {
+      "x": [
+        86,
+        100
+      ],
+      "y": [
+        94,
+        100
+      ]
+    },
+    "color": "#4a49a7",
+    "desc": "The healthiest brands when it comes to credibility and premiumness, but they also face the most pressure and scrutiny."
+  },
+  {
+    "id": "elite-trusted",
+    "name": "Elite Trusted Brands",
+    "band": {
+      "x": [
+        78,
+        100
+      ],
+      "y": [
+        82,
+        94
+      ]
+    },
+    "color": "#2159b8",
+    "desc": "Developers at the forefront of the market have proved and maintained their premium status over the years."
+  },
+  {
+    "id": "delivery-masters",
+    "name": "Delivery Masters",
+    "band": {
+      "x": [
+        86,
+        100
+      ],
+      "y": [
+        55,
+        82
+      ]
+    },
+    "color": "#12805a",
+    "desc": "They aim to deliver a moderate, but reliable upgrade and serve as the best entry point to gated community developments for consumers."
+  },
+  {
+    "id": "mass-market",
+    "name": "Mass Market Giants",
+    "band": {
+      "x": [
+        78,
+        100
+      ],
+      "y": [
+        30,
+        55
+      ]
+    },
+    "color": "#5b8a99",
+    "desc": "Reliable and consistent delivery of basic products that cater to the widest audience and casts the biggest net."
+  },
+  {
+    "id": "public-housing",
+    "name": "Public Housing / Government Development",
+    "band": {
+      "x": [
+        78,
+        100
+      ],
+      "y": [
+        0,
+        30
+      ]
+    },
+    "color": "#9aa7c7",
+    "desc": "A gated-community developer might never be seen in this zone, as it signals the brand is targeting C–D economic classes."
+  },
+  {
+    "id": "intangible-premium",
+    "name": "Intangible Premium",
+    "band": {
+      "x": [
+        50,
+        78
+      ],
+      "y": [
+        65,
+        100
+      ]
+    },
+    "color": "#c8811a",
+    "desc": "Developers with unclear positioning that are under observation until their long-term strategy is clearer."
+  },
+  {
+    "id": "vulnerable-premium",
+    "name": "Vulnerable Premium",
+    "band": {
+      "x": [
+        50,
+        78
+      ],
+      "y": [
+        30,
+        65
+      ]
+    },
+    "color": "#8c7fb0",
+    "desc": "The zone brands enter when new to the market or when they have lost equity. Brands here are on the verge of struggling."
+  },
+  {
+    "id": "lacks-edge",
+    "name": "Lacks an Edge",
+    "band": {
+      "x": [
+        50,
+        78
+      ],
+      "y": [
+        0,
+        30
+      ]
+    },
+    "color": "#c98f94",
+    "desc": "With moderate credibility and low premium, these brands fail to stand out and separate themselves from the noise."
+  },
+  {
+    "id": "talk-the-talk",
+    "name": "They Only Talk The Talk",
+    "band": {
+      "x": [
+        0,
+        50
+      ],
+      "y": [
+        55,
+        100
+      ]
+    },
+    "color": "#5a9471",
+    "desc": "A danger zone that signals a critical mismatch between where the brand aims to be and what the market believes its claims to be."
+  },
+  {
+    "id": "warning-signal",
+    "name": "Warning Signal",
+    "band": {
+      "x": [
+        30,
+        50
+      ],
+      "y": [
+        0,
+        55
+      ]
+    },
+    "color": "#c8a81a",
+    "desc": "Struggling brands that many customers actively avoid — brand reputation is close to being a liability."
+  },
+  {
+    "id": "critical-risk",
+    "name": "Critical Risk",
+    "band": {
+      "x": [
+        0,
+        30
+      ],
+      "y": [
+        0,
+        55
+      ]
+    },
+    "color": "#ed2429",
+    "desc": "Developers in the double-negative scores need to prioritize solving existing issues rather than expanding, launching, and accruing a bigger backlog."
+  }
+]

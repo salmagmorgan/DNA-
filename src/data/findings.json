@@ -1,0 +1,89 @@
+[
+  {
+    "theme": "Market Shift",
+    "headline": "Brand equity has become the new currency",
+    "metric": {
+      "label": "Choice driver",
+      "value": "Developer name, 26% weighted"
+    },
+    "evidence": "\"Real estate today is no longer just about projects; it’s about brands that hold the cues of credibility…\" When physical projects look identical, the developer’s name is the ultimate tie-breaker.",
+    "why": "Product parity and price neutrality have commoditized the traditional levers of competition — design, amenities, and payment plans are now ubiquitous.",
+    "implication": "Winners will compete on identity, not presence.",
+    "source": "Brand Equity Is The New Currency, p.9",
+    "confidence": "High — cited directly in the report"
+  },
+  {
+    "theme": "Consumer Behavior",
+    "headline": "Buyers are shifting from scattered exploration to exclusive consideration",
+    "metric": {
+      "label": "Exclusive-minded buyers",
+      "value": "22% (+8pp YoY)"
+    },
+    "evidence": "Divide-minded buyers (considering 2–5 developers) rose to 75% (+15pp); scattered-minded buyers collapsed to just 3% (-23pp vs Oct 2024).",
+    "why": "As trust declines, buyers protect themselves by narrowing their consideration set rather than broadening it.",
+    "implication": "\"The next shift may no longer be from ‘many to few,’ but from ‘few to one.’\"",
+    "source": "The New Calculated Buyer, p.11",
+    "confidence": "High — survey-based"
+  },
+  {
+    "theme": "Consumer Behavior",
+    "headline": "Investment-driven demand collapsed from 55% to 20% of buyers in one year",
+    "evidence": "As speculative, short-term investment demand declined, a large portion of transactions vanished from the market.",
+    "why": "Developers have adapted with extended payment plans, increased cash discounts, smaller \"2–3 bedroom\" living-type units, and a shift from investor-led to end-user-driven offerings.",
+    "implication": "End-user utility and long-term value now matter more than speculative upside.",
+    "source": "Now.. The Effect, p.12",
+    "confidence": "High — survey-based"
+  },
+  {
+    "theme": "Positioning",
+    "headline": "Only 3 developers occupy the healthiest quadrant: Luxury Icons",
+    "metric": {
+      "label": "Luxury Icons",
+      "value": "EMAAR · SODIC · G Developments"
+    },
+    "evidence": "EMAAR (100), SODIC (95) and G Developments (93) are the only developers scoring in the top-right Luxury Icons zone of the Positioning Index.",
+    "why": "Luxury Icons is \"the most difficult zone to enter and the easiest to get out of\" — pressure and scrutiny are highest here.",
+    "implication": "Sustaining a Luxury Icons position requires continuous proof, not a one-time launch.",
+    "source": "Brand Fitness Index, p.33-40",
+    "confidence": "High — index is report-calculated"
+  },
+  {
+    "theme": "Positioning",
+    "headline": "TMG and Madinet Masr top credibility but trail badly on premiumness",
+    "metric": {
+      "label": "TMG",
+      "value": "Cred 96 · Prem 68"
+    },
+    "evidence": "TMG (Credibility 96, Premiumness 68) and Madinet Masr (Credibility 86, Premiumness 45) both show a wide credibility–premiumness gap, landing in Delivery Masters and Mass Market Giants respectively.",
+    "why": "Scale and delivery reliability built trust, but mass-market positioning has capped how premium either brand is perceived.",
+    "implication": "Premiumness has to be earned deliberately — it doesn’t follow automatically from scale.",
+    "source": "Brand Fitness Index, p.40",
+    "confidence": "High — index is report-calculated"
+  },
+  {
+    "theme": "Positioning",
+    "headline": "Al Ahly Sabbour is the only developer in double-negative \"Critical Risk\" territory",
+    "metric": {
+      "label": "Al Ahly Sabbour",
+      "value": "Index 44"
+    },
+    "evidence": "Al Ahly Sabbour scores lowest on both axes (Credibility 48, Premiumness 40), the only developer in the report’s Critical Risk zone.",
+    "why": "Delayed handovers, the absence of a signature flagship development, and finishing-quality skepticism have eroded trust over several years.",
+    "implication": "The report recommends fixing existing delivery and maintenance issues before any expansion.",
+    "source": "Brand Fitness Index | Critical Risk, p.39",
+    "confidence": "High — index is report-calculated"
+  },
+  {
+    "theme": "Capability",
+    "headline": "Only 4 of 15 developers are true cross-category ecosystem builders",
+    "metric": {
+      "label": "Ecosystem Builders",
+      "value": "EMAAR · SODIC · Marakez · TMG"
+    },
+    "evidence": "Just four developers score a 5/5/5 across Residential, Commercial and Hospitality capability — a clear divide separates ecosystem builders from residential specialists.",
+    "why": "As the market shifts toward integrated destinations, cross-category capability is becoming the decisive competitive advantage.",
+    "implication": "This capability gap is the clearest whitespace in the market.",
+    "source": "The Market Blueprint, p.148",
+    "confidence": "High — capability matrix is report-calculated"
+  }
+]

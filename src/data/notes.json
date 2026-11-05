@@ -1,0 +1,47 @@
+[
+  {
+    "cat": "Decisions applied",
+    "t": "Positioning Index zone bands",
+    "d": "The 11 zone boundaries on the quadrant were reconstructed from the source chart’s visual layout and cross-checked against every developer’s reported (Credibility, Premiumness) coordinate — all 15 placements were consistent with their stated zone."
+  },
+  {
+    "cat": "Decisions applied",
+    "t": "Anatomy weighting basis",
+    "d": "Anatomy dimension points follow each dimension’s published weight (Left Brain 15%, Heart 10%, Legs 15%, Right Brain 10%, Mouth 10%, Muscles 25%, Hands 15%) applied to the /10 score shown per developer."
+  },
+  {
+    "cat": "Inconsistency in source",
+    "t": "Mountain View — Anatomy total",
+    "d": "The source infographic’s displayed weighted points for Mountain View sum to 73.5pt against dimension scores shown; the dashboard follows the report’s own displayed per-dimension values."
+  },
+  {
+    "cat": "Inconsistency in source",
+    "t": "La Vista — Anatomy total",
+    "d": "The stated total (75.5pt) differs from the sum of the individual weighted points shown (73.5pt) on the same page. The dashboard surfaces both the per-dimension detail and flags the gap rather than silently resolving it."
+  },
+  {
+    "cat": "Inconsistency in source",
+    "t": "Hassan Allam Properties — Hands dimension",
+    "d": "The displayed oval value for Hands (13.5pt) sits above what the 7/10 × 15% formula shown inline on the same page would produce (10.5pt). The oval (reported) value is used since it reconciles with the stated total."
+  },
+  {
+    "cat": "Inconsistency in source",
+    "t": "Growth Rate YoY — axis labeling",
+    "d": "The Ecosystem chart’s year labeling is ambiguous between a 2024 and 2025 reading for the most recent bar; both figures are referenced qualitatively in the Market Context tab rather than asserting one single value."
+  },
+  {
+    "cat": "Data gaps / approximations",
+    "t": "Emaar — Archetype",
+    "d": "Emaar is the only developer in Section 05 whose Archetype the report leaves unconfirmed/open; it is shown as \"Unconfirmed\" rather than assigned."
+  },
+  {
+    "cat": "Data gaps / approximations",
+    "t": "Qatari Diar — low transaction volume",
+    "d": "Sales figures for Qatari Diar reflect a materially smaller operating base than the other 14 developers (flagged explicitly in the source as a comparability caveat)."
+  },
+  {
+    "cat": "Data gaps / approximations",
+    "t": "Hassan Allam naming",
+    "d": "\"Hassan Allam\" spans multiple related entities (construction, properties); brand perception data may partially blend association with the parent construction business."
+  }
+]

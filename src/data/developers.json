@@ -1,0 +1,1987 @@
+[
+  {
+    "id": "tmg",
+    "name": "TMG",
+    "full": "Talaat Moustafa Group",
+    "logo": "logos/tmg.png",
+    "tagline": "Developing Integrated Cities & Communities",
+    "zone": "delivery-masters",
+    "idx": {
+      "cred": 96,
+      "prem": 68,
+      "score": 82
+    },
+    "sales": {
+      "rank": 1,
+      "value": 382,
+      "cagr": 64,
+      "awareness": 8,
+      "active": 3,
+      "delivered": 6,
+      "sc": {
+        "east": 100,
+        "west": 100,
+        "north": 100
+      }
+    },
+    "archetype": "Hero",
+    "strengths": [
+      "Unrivaled Market Dominance",
+      "Value-Led Accessibility",
+      "Foreign Appeal — SouthMED attracted buyers from 60+ nationalities"
+    ],
+    "vulnerabilities": [
+      "Limited Community Perception",
+      "Density Across Projects",
+      "High-End Product Skepticism (SouthMED / The Spine finishing quality)"
+    ],
+    "human": {
+      "who": "Responsible family builders.",
+      "success": "Living in a complete city where every family’s needs are already met."
+    },
+    "persona": {
+      "img": "personas/tmg.jpg",
+      "gender": "Male",
+      "age": "Mid-50s–early 60s",
+      "outfit": "Formal / tailored, adaptable to smart casual",
+      "title": "The Established Leader",
+      "sub": "Visionary, Grounded, and Deeply Respected",
+      "traits": [
+        "Charismatic but reserved",
+        "Visionary",
+        "Experienced",
+        "Community-aware"
+      ]
+    },
+    "essence": {
+      "core": "The Reliable Empire Builder",
+      "personality": [
+        "Trusted",
+        "Paternal",
+        "Dependable",
+        "Authoritative",
+        "Powerful",
+        "Expert",
+        "Visionary",
+        "Established"
+      ],
+      "values": [
+        "Structure",
+        "Continuity",
+        "Operational excellence",
+        "Expertise",
+        "Trust"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Dominant",
+        "Established",
+        "Authoritative",
+        "Integrated Living",
+        "Proven Track Record",
+        "Designed for Convenience"
+      ],
+      "messages": [
+        "Integrated Living",
+        "Proven Track Record",
+        "Designed for Convenience"
+      ],
+      "ig": "40.5K",
+      "fb": "418K",
+      "quote": "TMG doesn’t try to convince, it asserts dominance through scale & certainty."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 10,
+        "pt": 15
+      },
+      "heart": {
+        "s": 5,
+        "pt": 5
+      },
+      "legs": {
+        "s": 10,
+        "pt": 15
+      },
+      "rb": {
+        "s": 8,
+        "pt": 8
+      },
+      "mouth": {
+        "s": 10,
+        "pt": 10
+      },
+      "muscles": {
+        "s": 10,
+        "pt": 25
+      },
+      "hands": {
+        "s": 7,
+        "pt": 10.5
+      }
+    },
+    "capability": {
+      "res": 5,
+      "com": 5,
+      "hos": 5
+    },
+    "expression": {
+      "tv": 5,
+      "bb": 5,
+      "dig": 4,
+      "cel": 5,
+      "og": 4,
+      "spn": 3
+    }
+  },
+  {
+    "id": "emaar",
+    "name": "Emaar",
+    "full": "Emaar Misr",
+    "logo": "logos/emaar.png",
+    "tagline": "Live the Good Life",
+    "zone": "luxury-icons",
+    "idx": {
+      "cred": 100,
+      "prem": 100,
+      "score": 100
+    },
+    "sales": {
+      "rank": 3,
+      "value": 179,
+      "cagr": 51,
+      "awareness": 5,
+      "active": 4,
+      "delivered": 8,
+      "sc": {
+        "east": 98,
+        "west": 100,
+        "north": 100
+      }
+    },
+    "archetype": null,
+    "strengths": [
+      "Strong Credibility and Trust (backed by Emaar UAE)",
+      "Prestige-Driven Brand Persona",
+      "Gated Exclusivity",
+      "Loyal Customer Base"
+    ],
+    "vulnerabilities": [
+      "High Price Point",
+      "Strict Eligibility Requirements (residency outside Egypt for some projects)",
+      "Lifestyle Balance Challenge"
+    ],
+    "human": {
+      "who": "Status consolidators.",
+      "success": "Living within a globally recognized lifestyle brand."
+    },
+    "persona": {
+      "img": "personas/emaar.jpg",
+      "gender": "Male",
+      "nationality": "GCC",
+      "age": "Late 40s–early 50s",
+      "outfit": "Formal",
+      "lives": "Uptown Cairo",
+      "title": "The Prestige Power Player",
+      "sub": "Ambitious, Selective, and Uncompromising",
+      "traits": [
+        "Highly ambitious",
+        "Vision-driven",
+        "Strict",
+        "Selective",
+        "Self-assured"
+      ]
+    },
+    "essence": {
+      "core": "The Aspirational Standard-Setter",
+      "personality": [
+        "Worldly",
+        "Visionary",
+        "Aspirational",
+        "Confident",
+        "Polished",
+        "Status-driven"
+      ],
+      "values": [
+        "Excellence",
+        "Belonging",
+        "Aspiration",
+        "Lifestyle",
+        "Refinement"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Aspirational",
+        "Luxury",
+        "Iconic"
+      ],
+      "messages": [
+        "Live Inside an Icon",
+        "Resort Living",
+        "Destination Lifestyle"
+      ],
+      "ig": "223K",
+      "fb": "773K",
+      "quote": "Emaar doesn’t just show developments… it frames them as worlds people want to escape into, with cinematic style."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 10,
+        "pt": 15
+      },
+      "heart": {
+        "s": 7,
+        "pt": 7
+      },
+      "legs": {
+        "s": 10,
+        "pt": 15
+      },
+      "rb": {
+        "s": 8,
+        "pt": 8
+      },
+      "mouth": {
+        "s": 8,
+        "pt": 8
+      },
+      "muscles": {
+        "s": 10,
+        "pt": 25
+      },
+      "hands": {
+        "s": 10,
+        "pt": 15
+      }
+    },
+    "capability": {
+      "res": 5,
+      "com": 5,
+      "hos": 5
+    },
+    "expression": {
+      "tv": 1,
+      "bb": 3,
+      "dig": 5,
+      "cel": 1,
+      "og": 5,
+      "spn": 2
+    }
+  },
+  {
+    "id": "gdev",
+    "name": "G Developments",
+    "full": "G Developments",
+    "logo": "logos/gdev.png",
+    "tagline": "Egypt’s Premier Real Estate Developer",
+    "zone": "luxury-icons",
+    "idx": {
+      "cred": 87,
+      "prem": 100,
+      "score": 93
+    },
+    "sales": {
+      "rank": 11,
+      "value": 49,
+      "cagr": 35,
+      "awareness": 3,
+      "active": 2,
+      "delivered": 5,
+      "sc": {
+        "west": 87,
+        "north": 10
+      }
+    },
+    "archetype": "Ruler",
+    "strengths": [
+      "Tailored & Consumer-Centric",
+      "A Live, Learn & Thrive Environment (New Giza Club, New Giza University)",
+      "Elevating Everyday Living"
+    ],
+    "vulnerabilities": [
+      "Underutilization of Sales Channels (limited broker collaboration)",
+      "Limited Developer Visibility (known mainly for \"New Giza\")"
+    ],
+    "human": {
+      "who": "Self-made achievers.",
+      "success": "Owning a home that signals progress, independence, and upward mobility."
+    },
+    "persona": {
+      "img": "personas/gdev.jpg",
+      "gender": "Male",
+      "age": "Mid-40s–mid-50s",
+      "outfit": "Designer formal / semi-formal",
+      "lives": "New Giza / Katameya Heights",
+      "title": "The Charismatic Elite",
+      "sub": "Confident, Selective, and Presence-Driven",
+      "traits": [
+        "Charismatic",
+        "Selective",
+        "Confident with a hint of arrogance",
+        "Image-conscious",
+        "Luxury-driven"
+      ]
+    },
+    "essence": {
+      "core": "The Quiet Luxury Curator",
+      "personality": [
+        "Reserved",
+        "Selective",
+        "Refined",
+        "Private",
+        "Calm",
+        "Premium",
+        "Posh"
+      ],
+      "values": [
+        "Taste",
+        "Quality",
+        "Exclusivity",
+        "Sophistication",
+        "Selectivity"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Destination-Led",
+        "Editorial",
+        "Bold"
+      ],
+      "messages": [
+        "Distinctive Destination Living",
+        "Architecture Meets Nature",
+        "Your Summer State of Mind"
+      ],
+      "ig": "28K",
+      "fb": "79K"
+    },
+    "anatomy": {
+      "lb": {
+        "s": 10,
+        "pt": 15
+      },
+      "heart": {
+        "s": 7,
+        "pt": 7
+      },
+      "legs": {
+        "s": 7,
+        "pt": 10.5
+      },
+      "rb": {
+        "s": 8,
+        "pt": 8
+      },
+      "mouth": {
+        "s": 6,
+        "pt": 6
+      },
+      "muscles": {
+        "s": 8,
+        "pt": 20
+      },
+      "hands": {
+        "s": 8,
+        "pt": 12
+      }
+    },
+    "capability": {
+      "res": 5,
+      "com": 3,
+      "hos": 3
+    },
+    "expression": {
+      "tv": 0,
+      "bb": 4,
+      "dig": 3,
+      "cel": 0,
+      "og": 4,
+      "spn": 0
+    }
+  },
+  {
+    "id": "mountainview",
+    "name": "Mountain View",
+    "full": "Mountain View",
+    "logo": "logos/mountainview.png",
+    "tagline": "Where Gated Community Meets Modern Comfort",
+    "zone": "intangible-premium",
+    "idx": {
+      "cred": 57,
+      "prem": 77,
+      "score": 67
+    },
+    "sales": {
+      "rank": 4,
+      "value": 105,
+      "cagr": 40,
+      "awareness": 2,
+      "active": 11,
+      "delivered": 25,
+      "sc": {
+        "east": 98,
+        "west": 98,
+        "north": 100
+      }
+    },
+    "archetype": "Creator",
+    "strengths": [
+      "Lifestyle Visualization & Implementation",
+      "Emotional Engagement",
+      "Strong broker network"
+    ],
+    "vulnerabilities": [
+      "Marketing vs. Delivery — \"Marketing Persona\" over construction velocity",
+      "Excessive cold-calling",
+      "Brand Equity Risk (I-City seen as under-delivering)",
+      "Service/maintenance gaps"
+    ],
+    "human": {
+      "who": "Life optimizers.",
+      "success": "A life centered around wellbeing, connection and meaningful moments."
+    },
+    "persona": {
+      "img": "personas/mountainview.jpg",
+      "gender": "Male",
+      "age": "Late 30s–mid-50s",
+      "outfit": "Semi-formal / smart casual",
+      "lives": "New Cairo \"Mountain View\" compounds",
+      "title": "The Lifestyle-Oriented Achiever",
+      "sub": "Balanced, Evolving, Yet Controlled",
+      "traits": [
+        "Optimistic entrepreneur",
+        "Lifestyle-oriented",
+        "Detail-oriented",
+        "Ambitious"
+      ]
+    },
+    "essence": {
+      "core": "The Happiness Architect",
+      "personality": [
+        "Nurturing",
+        "Cheerful",
+        "Optimistic",
+        "Warm",
+        "Playful",
+        "Sociable"
+      ],
+      "values": [
+        "Happiness",
+        "Family",
+        "Experience",
+        "Belonging"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Happiness",
+        "Familial Wellbeing"
+      ],
+      "messages": [
+        "Built for Real Life",
+        "Feeling at Home",
+        "Emotionally Grounded in Real Life"
+      ],
+      "ig": "174K",
+      "fb": "717K",
+      "quote": "Mountain View draws you in with emotions.. then assures you its real."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 8,
+        "pt": 12
+      },
+      "heart": {
+        "s": 10,
+        "pt": 10
+      },
+      "legs": {
+        "s": 10,
+        "pt": 12
+      },
+      "rb": {
+        "s": 8,
+        "pt": 9
+      },
+      "mouth": {
+        "s": 10,
+        "pt": 10
+      },
+      "muscles": {
+        "s": 10,
+        "pt": 10
+      },
+      "hands": {
+        "s": 7,
+        "pt": 10.5
+      }
+    },
+    "anatomyNote": "Source infographic shows an internal weighting inconsistency on this page; figures follow the report’s own displayed values (total 73.5pt is authoritative).",
+    "capability": {
+      "res": 5,
+      "com": 1,
+      "hos": 2
+    },
+    "expression": {
+      "tv": 5,
+      "bb": 5,
+      "dig": 4,
+      "cel": 5,
+      "og": 5,
+      "spn": 5
+    }
+  },
+  {
+    "id": "sodic",
+    "name": "SODIC",
+    "full": "SODIC",
+    "logo": "logos/sodic.png",
+    "tagline": "Creating Communities for You to Live More",
+    "zone": "luxury-icons",
+    "idx": {
+      "cred": 95,
+      "prem": 95,
+      "score": 95
+    },
+    "sales": {
+      "rank": 10,
+      "value": 49.4,
+      "cagr": 33,
+      "awareness": 2,
+      "active": 10,
+      "delivered": 14,
+      "sc": {
+        "east": 96,
+        "west": 100,
+        "north": 100
+      }
+    },
+    "archetype": "Sage",
+    "strengths": [
+      "Credibility Backed by Performance (Aldar-backed)",
+      "End-users Dominance",
+      "Powerful Facility Management Arm (EDARA)"
+    ],
+    "vulnerabilities": [
+      "Affordability Constraints",
+      "Gap in Product Portfolio (no entry-level product)"
+    ],
+    "human": {
+      "who": "Refined achievers.",
+      "success": "Living in a community that reflects their standards and taste."
+    },
+    "persona": {
+      "img": "personas/sodic.jpg",
+      "gender": "Male",
+      "age": "Mid-30s–late 40s",
+      "outfit": "Smart casual to semi-formal",
+      "lives": "Tagamoa / Zayed SODIC compounds",
+      "title": "The Balanced Community Builder",
+      "sub": "Sociable, Reliable, Yet Effortlessly Modern",
+      "traits": [
+        "Sociable",
+        "Reliable",
+        "Modern",
+        "Composed"
+      ]
+    },
+    "essence": {
+      "core": "The Punctual Perfectionist",
+      "personality": [
+        "Composed",
+        "Tasteful",
+        "Mature",
+        "Confident",
+        "Punctual",
+        "Reliable"
+      ],
+      "values": [
+        "Refinement",
+        "Credibility",
+        "Quality",
+        "Discretion",
+        "Punctuality"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Sophistication",
+        "Credible",
+        "Quality"
+      ],
+      "messages": [
+        "A Name You Can Trust",
+        "Well-Crafted Living",
+        "Design Excellence"
+      ],
+      "ig": "88.1K",
+      "fb": "232K",
+      "quote": "SODIC doesn’t overstate… it signals excellence through structure and selectivity."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 10,
+        "pt": 15
+      },
+      "heart": {
+        "s": 8,
+        "pt": 8
+      },
+      "legs": {
+        "s": 7,
+        "pt": 10.5
+      },
+      "rb": {
+        "s": 10,
+        "pt": 10
+      },
+      "mouth": {
+        "s": 7,
+        "pt": 7
+      },
+      "muscles": {
+        "s": 10,
+        "pt": 25
+      },
+      "hands": {
+        "s": 7,
+        "pt": 10.5
+      }
+    },
+    "capability": {
+      "res": 5,
+      "com": 5,
+      "hos": 5
+    },
+    "expression": {
+      "tv": 2,
+      "bb": 5,
+      "dig": 4,
+      "cel": 1,
+      "og": 3,
+      "spn": 4
+    }
+  },
+  {
+    "id": "orascom",
+    "name": "Orascom",
+    "full": "Orascom Development",
+    "logo": "logos/orascom.png",
+    "tagline": "Life As It Should Be",
+    "zone": "elite-trusted",
+    "idx": {
+      "cred": 90,
+      "prem": 90,
+      "score": 90
+    },
+    "sales": {
+      "rank": 20,
+      "value": 23,
+      "cagr": 20,
+      "awareness": 4,
+      "active": 3,
+      "delivered": 5,
+      "sc": {
+        "west": 88
+      }
+    },
+    "archetype": "Explorer",
+    "strengths": [
+      "Authentic & Refined Living",
+      "Destination Creation Expertise (El Gouna)",
+      "Lifestyle-Led Developments",
+      "Trusted Legacy & Credibility (Sawiris name)"
+    ],
+    "vulnerabilities": [
+      "Identity Overshadowed by Legacy",
+      "El Gouna Dependency (other projects benchmarked unfavorably)",
+      "Perceived Operational Gaps",
+      "Traditional Market Presence"
+    ],
+    "human": {
+      "who": "Lifestyle seekers who value authenticity, culture, and meaningful experiences."
+    },
+    "persona": {
+      "img": "personas/orascom.jpg",
+      "gender": "Male",
+      "age": "Late 40s",
+      "outfit": "Smart casual",
+      "lives": "El Gouna",
+      "title": "The Cultured Visionary",
+      "sub": "Experienced, Disciplined, and Forward-Thinking",
+      "traits": [
+        "Dependable",
+        "Charismatic",
+        "Visionary",
+        "Community-centric"
+      ]
+    },
+    "essence": {
+      "core": "The Cultured Visionary",
+      "personality": [
+        "Dependable",
+        "Charismatic",
+        "Visionary",
+        "Community-centric",
+        "Pioneering",
+        "Cultured"
+      ],
+      "values": [
+        "Lifestyle",
+        "Ecosystems",
+        "Authenticity",
+        "Exploration",
+        "Freedom"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Community-Driven",
+        "Destination-Led",
+        "Purposeful"
+      ],
+      "messages": [
+        "Towns Built Around People",
+        "Where Community Comes First"
+      ],
+      "ig": "41.7K",
+      "fb": "65K",
+      "quote": "Confusion here stems from association with Ora Developments."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 7,
+        "pt": 10.5
+      },
+      "heart": {
+        "s": 7,
+        "pt": 7
+      },
+      "legs": {
+        "s": 10,
+        "pt": 15
+      },
+      "rb": {
+        "s": 6,
+        "pt": 6
+      },
+      "mouth": {
+        "s": 7,
+        "pt": 7
+      },
+      "muscles": {
+        "s": 8,
+        "pt": 20
+      },
+      "hands": {
+        "s": 9,
+        "pt": 13.5
+      }
+    },
+    "capability": {
+      "res": 4,
+      "com": 3,
+      "hos": 2
+    },
+    "expression": {
+      "tv": 0,
+      "bb": 1,
+      "dig": 2,
+      "cel": 0,
+      "og": 1,
+      "spn": 3
+    }
+  },
+  {
+    "id": "marakez",
+    "name": "Marakez",
+    "full": "Marakez",
+    "logo": "logos/marakez.png",
+    "tagline": "Leading Mixed-Use Developer in Egypt",
+    "zone": "elite-trusted",
+    "idx": {
+      "cred": 84,
+      "prem": 94,
+      "score": 89
+    },
+    "sales": {
+      "rank": 15,
+      "value": 28.5,
+      "cagr": 60,
+      "awareness": 3,
+      "active": 3,
+      "delivered": 5,
+      "sc": {
+        "east": 44,
+        "north": 60
+      }
+    },
+    "archetype": "Explorer",
+    "strengths": [
+      "Execution & Quality Routes",
+      "Commercial Mastery (\"Commercial Strips over Malls\")",
+      "Tangible Proof",
+      "Boutique Appeal"
+    ],
+    "vulnerabilities": [
+      "Volume Limits (small vs the \"Elite 10\")",
+      "Correction Exposure (overpriced boutique units)",
+      "Deal Velocity (longer cycles for high-end units)"
+    ],
+    "human": {
+      "who": "Urban sophisticates.",
+      "success": "Being connected to the city’s best experiences."
+    },
+    "persona": {
+      "img": "personas/marakez.jpg",
+      "gender": "Male",
+      "nationality": "Gulf",
+      "age": "Early–mid 40s",
+      "outfit": "Elevated smart casual to semi-formal",
+      "lives": "New Cairo / Sheikh Zayed / District 5-type environments",
+      "title": "The Refined Modern Investor",
+      "sub": "Creative, Detail-Oriented, and Forward-Thinking",
+      "traits": [
+        "Creative",
+        "Detail-oriented",
+        "Forward-thinking"
+      ]
+    },
+    "essence": {
+      "core": "The Urban Catalyst",
+      "personality": [
+        "Social",
+        "Dynamic",
+        "Urban",
+        "Tasteful",
+        "Adaptive",
+        "Energetic"
+      ],
+      "values": [
+        "Modernity",
+        "Connectivity",
+        "Experience",
+        "Relevance",
+        "Community",
+        "Movement"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Lifestyle",
+        "Vibrancy",
+        "Convenience"
+      ],
+      "messages": [
+        "Live Where It Happens",
+        "Retail Leadership",
+        "Connected Everyday Experiences"
+      ],
+      "ig": "51.3K",
+      "fb": "106K"
+    },
+    "anatomy": {
+      "lb": {
+        "s": 10,
+        "pt": 15
+      },
+      "heart": {
+        "s": 8,
+        "pt": 8
+      },
+      "legs": {
+        "s": 7,
+        "pt": 10.5
+      },
+      "rb": {
+        "s": 10,
+        "pt": 10
+      },
+      "mouth": {
+        "s": 7,
+        "pt": 7
+      },
+      "muscles": {
+        "s": 10,
+        "pt": 25
+      },
+      "hands": {
+        "s": 10,
+        "pt": 15
+      }
+    },
+    "capability": {
+      "res": 5,
+      "com": 5,
+      "hos": 5
+    },
+    "expression": {
+      "tv": 0,
+      "bb": 4,
+      "dig": 5,
+      "cel": 0,
+      "og": 5,
+      "spn": 3
+    }
+  },
+  {
+    "id": "lavista",
+    "name": "La Vista",
+    "full": "La Vista Developments",
+    "logo": "logos/lavista.png",
+    "tagline": "",
+    "zone": "elite-trusted",
+    "idx": {
+      "cred": 100,
+      "prem": 84,
+      "score": 92
+    },
+    "sales": {
+      "rank": 8,
+      "value": 55,
+      "cagr": 46,
+      "awareness": 2,
+      "active": 14,
+      "delivered": 36,
+      "sc": {
+        "east": 81,
+        "west": 85,
+        "north": 100
+      }
+    },
+    "archetype": "Innocent",
+    "strengths": [
+      "Secondary Market Stability (high resale value/WOM)",
+      "Quality Mastery",
+      "Community Consistency",
+      "Location Breadth"
+    ],
+    "vulnerabilities": [
+      "Over-density Risk (new 6th Settlement project, G+7)",
+      "Broker Vulnerability",
+      "Low Marketing Visibility",
+      "Limited Product Innovation"
+    ],
+    "human": {
+      "who": "Family legacy builders.",
+      "success": "Having a place that becomes part of the family’s story and traditions."
+    },
+    "persona": {
+      "img": "personas/lavista.jpg",
+      "gender": "Male",
+      "age": "Mid-50s",
+      "outfit": "Formal / traditional suits, slightly outdated",
+      "lives": "New Cairo established compounds",
+      "title": "The Disciplined Operator",
+      "sub": "Consistent, Controlled, and Experience-Led",
+      "traits": [
+        "Strict",
+        "Firm",
+        "Relies on repetition of proven formulas"
+      ]
+    },
+    "essence": {
+      "core": "The Disciplined Architect",
+      "personality": [
+        "Formula-driven",
+        "Disciplined",
+        "Controlled",
+        "Private",
+        "Consistent"
+      ],
+      "values": [
+        "Privacy",
+        "Consistency",
+        "Quality",
+        "Control",
+        "Maintenance",
+        "Formula"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Simple",
+        "Familiar",
+        "Consistent"
+      ],
+      "messages": [
+        "Designed for Everyday Living",
+        "A Home Across Destinations",
+        "Where Life Feels Easy"
+      ],
+      "ig": "40.3K",
+      "fb": "218K",
+      "quote": "La Vista doesn’t try to convince.. It normalizes comfortable living."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 10,
+        "pt": 15
+      },
+      "heart": {
+        "s": 8,
+        "pt": 8
+      },
+      "legs": {
+        "s": 4,
+        "pt": 6
+      },
+      "rb": {
+        "s": 4,
+        "pt": 4
+      },
+      "mouth": {
+        "s": 3,
+        "pt": 3
+      },
+      "muscles": {
+        "s": 9,
+        "pt": 22.5
+      },
+      "hands": {
+        "s": 10,
+        "pt": 15
+      }
+    },
+    "anatomyNote": "Stated total (75.5pt) differs from the summed weighted points shown (73.5pt) — a small inconsistency in the source deck; the stated total is treated as authoritative elsewhere on the dashboard.",
+    "capability": {
+      "res": 5,
+      "com": 1,
+      "hos": 0
+    },
+    "expression": {
+      "tv": 0,
+      "bb": 3,
+      "dig": 1,
+      "cel": 0,
+      "og": 0,
+      "spn": 0
+    }
+  },
+  {
+    "id": "palmhills",
+    "name": "Palm Hills",
+    "full": "Palm Hills Developments",
+    "logo": "logos/palmhills.png",
+    "tagline": "The Pride of An Address",
+    "zone": "intangible-premium",
+    "idx": {
+      "cred": 71,
+      "prem": 82,
+      "score": 76
+    },
+    "sales": {
+      "rank": 2,
+      "value": 208,
+      "cagr": 71,
+      "awareness": 4,
+      "active": 16,
+      "delivered": 30,
+      "sc": {
+        "east": 99,
+        "west": 100,
+        "north": 98
+      }
+    },
+    "archetype": "Explorer",
+    "strengths": [
+      "Established Credibility",
+      "AB Segment Awareness",
+      "Lifestyle Experience",
+      "Broker network (though payment delays are a weakness)"
+    ],
+    "vulnerabilities": [
+      "Deteriorating Execution Standards (handover delays, quality concerns)",
+      "Diluted Premium Perception",
+      "Weakening Resale Performance (12-year payment-plan flippers affected)"
+    ],
+    "human": {
+      "who": "Lifestyle seekers.",
+      "success": "Living in a community that supports both comfort and connection."
+    },
+    "persona": {
+      "img": "personas/palmhills.jpg",
+      "gender": "Male",
+      "age": "45–mid-50s",
+      "outfit": "Formal classic suits",
+      "lives": "Older Palm Hills projects",
+      "title": "The Established Host",
+      "sub": "Confident, Social, and Set in His Ways",
+      "traits": [
+        "Effortlessly social",
+        "Leisure-minded",
+        "Relaxed",
+        "Aspirational"
+      ]
+    },
+    "essence": {
+      "core": "The Established Social Host",
+      "personality": [
+        "Effortlessly social",
+        "Leisure-minded",
+        "Relaxed",
+        "Aspirational",
+        "Confident",
+        "Community-driven"
+      ],
+      "values": [
+        "Lifestyle",
+        "Social belonging",
+        "Comfort",
+        "Relaxed luxury",
+        "Leisure"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Community-Led",
+        "Attainable Premium",
+        "Legacy"
+      ],
+      "messages": [
+        "Built For Every Stage",
+        "Diverse Portfolio",
+        "Community Beyond The Address"
+      ],
+      "ig": "118K",
+      "fb": "252K",
+      "quote": "Lack of clearly defined brand positioning due to inconsistent outputs."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 7,
+        "pt": 10.5
+      },
+      "heart": {
+        "s": 9,
+        "pt": 9
+      },
+      "legs": {
+        "s": 10,
+        "pt": 15
+      },
+      "rb": {
+        "s": 4,
+        "pt": 4
+      },
+      "mouth": {
+        "s": 10,
+        "pt": 10
+      },
+      "muscles": {
+        "s": 7,
+        "pt": 17.5
+      },
+      "hands": {
+        "s": 7,
+        "pt": 10.5
+      }
+    },
+    "capability": {
+      "res": 4,
+      "com": 4,
+      "hos": 0
+    },
+    "expression": {
+      "tv": 5,
+      "bb": 4,
+      "dig": 3,
+      "cel": 5,
+      "og": 5,
+      "spn": 5
+    }
+  },
+  {
+    "id": "hassanallam",
+    "name": "Hassan Allam Properties",
+    "full": "Hassan Allam Properties (HAP)",
+    "logo": "logos/hassanallam.png",
+    "tagline": "The Luxury Of Certainty",
+    "zone": "elite-trusted",
+    "idx": {
+      "cred": 82,
+      "prem": 90,
+      "score": 86
+    },
+    "sales": {
+      "rank": 19,
+      "value": 24,
+      "cagr": 28,
+      "awareness": 3,
+      "active": 2,
+      "delivered": 6,
+      "sc": {
+        "east": 100,
+        "west": 100,
+        "north": 100
+      }
+    },
+    "archetype": "Ruler",
+    "strengths": [
+      "Unrivaled Credibility (choice for \"Cautious Consumers\")",
+      "Credibility reinforced by construction business",
+      "Livable & Practical Layouts",
+      "WOM Validation"
+    ],
+    "vulnerabilities": [
+      "Rare Delays & Untold Modifications (Haptown delivery delays, façade modifications)",
+      "Conservative payment-plan Terms",
+      "Aggressive Competition",
+      "Innovation Lag"
+    ],
+    "human": {
+      "who": "People who value substance over show.",
+      "success": "Owning in a development backed by a highly respected institution."
+    },
+    "persona": {
+      "img": "personas/hassanallam.jpg",
+      "gender": "Male",
+      "age": "Late 50s–early 60s",
+      "outfit": "Semi-formal to formal",
+      "lives": "Swan Lake Residence, New Cairo",
+      "title": "The Refined Craftsman",
+      "sub": "Credible, Premium, and Value-Driven",
+      "traits": [
+        "Refined",
+        "Thoughtful",
+        "Reassuring"
+      ]
+    },
+    "essence": {
+      "core": "The Crafted Sophisticate",
+      "personality": [
+        "Refined",
+        "Dependable",
+        "Thoughtful",
+        "Reassuring",
+        "Tasteful",
+        "Caring"
+      ],
+      "values": [
+        "Quality",
+        "Craftsmanship",
+        "Detail",
+        "Sophistication",
+        "Reliability",
+        "Thoughtful living"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Credible",
+        "Refined",
+        "Assured"
+      ],
+      "messages": [
+        "Refinement In Motion",
+        "Crafted With Confidence",
+        "Quiet Confidence"
+      ],
+      "ig": "47.9K",
+      "fb": "137K",
+      "quote": "Partially shared positioning dynamic, since \"Hassan Allam\" names multiple entities."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 6,
+        "pt": 9
+      },
+      "heart": {
+        "s": 4,
+        "pt": 4
+      },
+      "legs": {
+        "s": 5,
+        "pt": 7.5
+      },
+      "rb": {
+        "s": 2,
+        "pt": 2
+      },
+      "mouth": {
+        "s": 4,
+        "pt": 4
+      },
+      "muscles": {
+        "s": 7,
+        "pt": 17.5
+      },
+      "hands": {
+        "s": 7,
+        "pt": 13.5
+      }
+    },
+    "anatomyNote": "The Hands dimension’s displayed oval (13.5pt) sits slightly above the 7/10 × 15% formula (10.5pt) shown inline on this page — a small inconsistency in the source deck; the oval value is used since it ties to the stated total.",
+    "capability": {
+      "res": 5,
+      "com": 5,
+      "hos": 0
+    },
+    "expression": {
+      "tv": 1,
+      "bb": 2,
+      "dig": 3,
+      "cel": 0,
+      "og": 0,
+      "spn": 4
+    }
+  },
+  {
+    "id": "ora",
+    "name": "Ora",
+    "full": "ORA Developers",
+    "logo": "logos/ora.png",
+    "tagline": "Developing Integrated Communities, Each With Its Own Unmatched Lifestyle",
+    "zone": "elite-trusted",
+    "idx": {
+      "cred": 81,
+      "prem": 87,
+      "score": 84
+    },
+    "sales": {
+      "rank": 12,
+      "value": 38,
+      "cagr": 24,
+      "awareness": 3,
+      "active": 5,
+      "delivered": 5,
+      "sc": {
+        "east": 82,
+        "west": 80,
+        "north": 69
+      }
+    },
+    "archetype": "Magician",
+    "strengths": [
+      "Investor Appeal (30–40 segment)",
+      "Global Positioning (Iraq, UAE, Greece)",
+      "Premium Living Backed by Hospitality Expertise (ORA Property Management)",
+      "Experiential Visibility"
+    ],
+    "vulnerabilities": [
+      "Density Dilutes Exclusivity",
+      "Price Skepticism",
+      "Delivery Promises (dates deter end-users; finishing below marketed \"premium\" standard)"
+    ],
+    "human": {
+      "who": "Modern status seekers.",
+      "success": "Living where culture, lifestyle, and ambition intersect."
+    },
+    "persona": {
+      "img": "personas/ora.jpg",
+      "gender": "Male",
+      "age": "40s–mid-50s",
+      "outfit": "Smart casual to casual chic",
+      "lives": "Zamalek / Sheikh Zayed",
+      "title": "The Modern Tastemaker",
+      "sub": "Effortlessly Cool, Inclusive, and Lively",
+      "traits": [
+        "Charismatic",
+        "Bold",
+        "Confident",
+        "Ambitious"
+      ]
+    },
+    "essence": {
+      "core": "The Refined Lifestyle Icon",
+      "personality": [
+        "Charismatic",
+        "Bold",
+        "Confident",
+        "Ambitious",
+        "Stylish",
+        "Image-conscious"
+      ],
+      "values": [
+        "Status",
+        "Experience",
+        "Modernity",
+        "Community"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Aspirational",
+        "Curated",
+        "Influential"
+      ],
+      "messages": [
+        "Belonging Through Experience",
+        "Luxury With Cultural Currency",
+        "Status Through Lifestyle"
+      ],
+      "ig": "174K",
+      "fb": "312K"
+    },
+    "anatomy": {
+      "lb": {
+        "s": 10,
+        "pt": 15
+      },
+      "heart": {
+        "s": 10,
+        "pt": 10
+      },
+      "legs": {
+        "s": 10,
+        "pt": 15
+      },
+      "rb": {
+        "s": 8,
+        "pt": 8
+      },
+      "mouth": {
+        "s": 10,
+        "pt": 10
+      },
+      "muscles": {
+        "s": 3,
+        "pt": 7.5
+      },
+      "hands": {
+        "s": 7,
+        "pt": 10.5
+      }
+    },
+    "capability": {
+      "res": 3,
+      "com": 3,
+      "hos": 1
+    },
+    "expression": {
+      "tv": 5,
+      "bb": 4,
+      "dig": 4,
+      "cel": 5,
+      "og": 5,
+      "spn": 5
+    }
+  },
+  {
+    "id": "qataridiar",
+    "name": "Qatari Diar",
+    "full": "Qatari Diar Egypt",
+    "logo": "logos/qataridiar.png",
+    "tagline": "Inspiring Excellence In Real Estate",
+    "zone": "elite-trusted",
+    "idx": {
+      "cred": 87,
+      "prem": 95,
+      "score": 91
+    },
+    "sales": {
+      "rank": 18,
+      "value": 25,
+      "cagr": 35,
+      "awareness": 1,
+      "active": 1,
+      "delivered": 2,
+      "sc": {
+        "east": 18,
+        "north": 46
+      }
+    },
+    "archetype": "Ruler",
+    "strengths": [
+      "Ultra-Premium Prestige",
+      "Selective High-end Community",
+      "Competitive Pricing — \"premium experience at a relatively accessible price point\""
+    ],
+    "vulnerabilities": [
+      "Transaction Gap (low volume vs local giants)",
+      "Stagnant Demand (compounded by the 2013 political events in Egypt)",
+      "Low Brand Visibility"
+    ],
+    "human": {
+      "who": "Long-term wealth preservers.",
+      "success": "Owning timeless assets that preserve value."
+    },
+    "persona": {
+      "img": "personas/qataridiar.jpg",
+      "gender": "Male",
+      "nationality": "GCC",
+      "age": "Late 40s",
+      "outfit": "Timeless luxury, custom-tailored bisht / semi-formal — never a visible logo",
+      "lives": "St. Regis",
+      "title": "Quiet Prestige with Institutional Authority",
+      "sub": "Elevated, culturally-rooted luxury with long-term vision",
+      "traits": [
+        "Well-educated",
+        "Charismatic but reserved",
+        "Firm and confident"
+      ]
+    },
+    "essence": {
+      "core": "The Quiet Powerhouse",
+      "personality": [
+        "Powerful",
+        "Formal",
+        "Sovereign",
+        "Prestigious",
+        "Composed",
+        "Institutional",
+        "Diplomatic"
+      ],
+      "values": [
+        "Prestige",
+        "Legacy",
+        "Excellence",
+        "Security",
+        "Long-term value",
+        "Refinement"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Refined",
+        "Sophisticated",
+        "Experiential"
+      ],
+      "messages": [
+        "Built to Endure",
+        "Where Life Flourishes",
+        "Luxury Without Excess"
+      ],
+      "ig": "20.3K",
+      "fb": "46K",
+      "quote": "Marketing efforts haven’t reached full potential, resulting in a lack of clear brand establishment in consumer minds."
+    },
+    "anatomy": {
+      "lb": {
+        "s": 8,
+        "pt": 12
+      },
+      "heart": {
+        "s": 4,
+        "pt": 4
+      },
+      "legs": {
+        "s": 6,
+        "pt": 9
+      },
+      "rb": {
+        "s": 4,
+        "pt": 4
+      },
+      "mouth": {
+        "s": 6,
+        "pt": 6
+      },
+      "muscles": {
+        "s": 8,
+        "pt": 20
+      },
+      "hands": {
+        "s": 5,
+        "pt": 7.5
+      }
+    },
+    "capability": {
+      "res": 4,
+      "com": 0,
+      "hos": 4
+    },
+    "expression": {
+      "tv": 0,
+      "bb": 3,
+      "dig": 3,
+      "cel": 0,
+      "og": 0,
+      "spn": 1
+    }
+  },
+  {
+    "id": "hydepark",
+    "name": "Hyde Park",
+    "full": "Hyde Park New Cairo",
+    "logo": "logos/hydepark.png",
+    "tagline": "Stay Connected To Everything That Matters",
+    "zone": "intangible-premium",
+    "idx": {
+      "cred": 78,
+      "prem": 79,
+      "score": 79
+    },
+    "sales": {
+      "rank": 5,
+      "value": 87,
+      "note": "Includes \"Founders\" Projects",
+      "cagr": 40,
+      "awareness": 3,
+      "active": 3,
+      "delivered": 7,
+      "sc": {
+        "east": 95,
+        "west": 100,
+        "north": 96
+      }
+    },
+    "archetype": "Everyman",
+    "strengths": [
+      "Large Scale Community Integration",
+      "Competitive Affordability Proposition",
+      "Community Focus",
+      "Post-Delivery Success"
+    ],
+    "vulnerabilities": [
+      "Master Plan Revisions (Garden Residence)",
+      "Correction Exposure (overvalued perceptions)"
+    ],
+    "human": {
+      "who": "Modern family builders.",
+      "success": "Living comfortably in a trusted community."
+    },
+    "persona": {
+      "img": "personas/hydepark.jpg",
+      "gender": "Male",
+      "age": "Late 40s–early 50s",
+      "outfit": "Semi-formal / smart casual",
+      "lives": "New Cairo established compounds",
+      "title": "The Reliable Modernist",
+      "sub": "Practical, dependable, ambitious",
+      "traits": [
+        "Practical",
+        "Dependable",
+        "Ambitious",
+        "Earns trust through execution"
+      ]
+    },
+    "essence": {
+      "core": "The City Sanctuary Maker",
+      "personality": [
+        "Steady",
+        "Calm",
+        "Grounded",
+        "Balanced",
+        "Warm",
+        "Nature-lover",
+        "Practical"
+      ],
+      "values": [
+        "Space",
+        "Family",
+        "Community",
+        "Calmness",
+        "Livability",
+        "Privacy"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Accessible",
+        "Elevated",
+        "Livable"
+      ],
+      "messages": [
+        "Designed Around Everyday Life",
+        "Premium Living Without Pretense",
+        "Communities You Can Grow In"
+      ],
+      "ig": "83.4K",
+      "fb": "288K"
+    },
+    "anatomy": {
+      "lb": {
+        "s": 8,
+        "pt": 12
+      },
+      "heart": {
+        "s": 10,
+        "pt": 10
+      },
+      "legs": {
+        "s": 5,
+        "pt": 7.5
+      },
+      "rb": {
+        "s": 4,
+        "pt": 4
+      },
+      "mouth": {
+        "s": 8,
+        "pt": 8
+      },
+      "muscles": {
+        "s": 9,
+        "pt": 22.5
+      },
+      "hands": {
+        "s": 10,
+        "pt": 15
+      }
+    },
+    "capability": {
+      "res": 4,
+      "com": 3,
+      "hos": 0
+    },
+    "expression": {
+      "tv": 0,
+      "bb": 2,
+      "dig": 4,
+      "cel": 0,
+      "og": 3,
+      "spn": 3
+    }
+  },
+  {
+    "id": "madinetmasr",
+    "name": "Madinet Masr",
+    "full": "Madinet Masr Housing & Development",
+    "logo": "logos/madinetmasr.png",
+    "tagline": "Redefining Modern Living In Egypt",
+    "zone": "mass-market",
+    "idx": {
+      "cred": 86,
+      "prem": 45,
+      "score": 66
+    },
+    "sales": {
+      "rank": 9,
+      "value": 52,
+      "cagr": 72,
+      "awareness": 1,
+      "active": 4,
+      "delivered": 4,
+      "sc": {
+        "east": 97
+      }
+    },
+    "archetype": "Caregiver",
+    "strengths": [
+      "Strategic Land Bank (East Cairo)",
+      "Integrated In-House Ecosystem (brokerage, finishing, fractional ownership app, maintenance)",
+      "Attractive Financial Packages (cash discounts up to 64%)",
+      "Unit Practicality"
+    ],
+    "vulnerabilities": [
+      "Concerns Over Product Quality",
+      "Limited Brand Identity and Expansion (beyond East Cairo)",
+      "Boutique Competition"
+    ],
+    "human": {
+      "who": "Upward movers.",
+      "success": "Owning in a destination that reflects personal progress."
+    },
+    "persona": {
+      "img": "personas/madinetmasr.jpg",
+      "gender": "Male",
+      "age": "Late 40s–early 50s",
+      "outfit": "Formal to semi-formal",
+      "lives": "Taj City / Madinet Nasr",
+      "title": "The Trusted Progressor",
+      "sub": "Reliable, accessible, and moving forward",
+      "traits": [
+        "Dependable",
+        "Grounded",
+        "Approachable"
+      ]
+    },
+    "essence": {
+      "core": "The Reassuring Modernizer",
+      "personality": [
+        "Dependable",
+        "Grounded",
+        "Approachable",
+        "Caring & Helpful",
+        "Expert",
+        "Growth-oriented"
+      ],
+      "values": [
+        "Authenticity",
+        "Inclusivity",
+        "Evolution",
+        "Innovation"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Relatable",
+        "Familiar",
+        "Value For Money"
+      ],
+      "messages": [
+        "Community Growth",
+        "Connected Living",
+        "Modern Living Within Reach"
+      ],
+      "ig": "211K",
+      "fb": "319K"
+    },
+    "anatomy": {
+      "lb": {
+        "s": 7,
+        "pt": 10.5
+      },
+      "heart": {
+        "s": 10,
+        "pt": 10
+      },
+      "legs": {
+        "s": 4,
+        "pt": 6
+      },
+      "rb": {
+        "s": 10,
+        "pt": 10
+      },
+      "mouth": {
+        "s": 10,
+        "pt": 10
+      },
+      "muscles": {
+        "s": 7,
+        "pt": 17.5
+      },
+      "hands": {
+        "s": 9,
+        "pt": 13.5
+      }
+    },
+    "capability": {
+      "res": 4,
+      "com": 2,
+      "hos": 0
+    },
+    "expression": {
+      "tv": 5,
+      "bb": 5,
+      "dig": 4,
+      "cel": 4,
+      "og": 5,
+      "spn": 5
+    }
+  },
+  {
+    "id": "ahlysabbour",
+    "name": "Al Ahly Sabbour",
+    "full": "Al Ahly Sabbour Developments",
+    "logo": "logos/ahlysabbour.png",
+    "tagline": "الحب اللي بينا يعمر بيوتنا",
+    "zone": "critical-risk",
+    "idx": {
+      "cred": 48,
+      "prem": 40,
+      "score": 44
+    },
+    "sales": {
+      "rank": 14,
+      "value": 31,
+      "cagr": 44,
+      "awareness": 4,
+      "active": 9,
+      "delivered": 23,
+      "note": "Includes Clubs",
+      "sc": {
+        "east": 96,
+        "north": 100
+      }
+    },
+    "archetype": "Everyman",
+    "strengths": [
+      "Community Trust (long-standing WOM reputation)",
+      "Broker Integration",
+      "Regional Diversity"
+    ],
+    "vulnerabilities": [
+      "Delayed handovers eroding trust",
+      "Absence of a Signature Development (no flagship elite project)",
+      "Finishing Skepticism"
+    ],
+    "human": {
+      "who": "Pragmatic progressors.",
+      "success": "Owning in a trusted community that grows with them."
+    },
+    "persona": {
+      "img": "personas/ahlysabbour.jpg",
+      "gender": "Male",
+      "age": "50–60",
+      "outfit": "Formal to classic smart casual, outdated / conservative",
+      "lives": "Older districts — Madinet Nasr / Korba",
+      "title": "The Familiar Trust Builder",
+      "traits": [
+        "Neighbourly",
+        "Rooted",
+        "Trustworthy",
+        "Approachable"
+      ]
+    },
+    "essence": {
+      "core": "The Familiar Trust Builder",
+      "personality": [
+        "Neighbourly",
+        "Rooted",
+        "Trustworthy",
+        "Approachable",
+        "Familiar",
+        "Family-oriented"
+      ],
+      "values": [
+        "Trust",
+        "Familiarity",
+        "Local relevance",
+        "Responsibility",
+        "Long-term security"
+      ]
+    },
+    "comms": {
+      "positioning": [
+        "Trustworthy",
+        "Familial",
+        "Familiar"
+      ],
+      "messages": [
+        "Trusted Choice Across Generations",
+        "Communities Built for Real Life",
+        "A Name Families Know"
+      ],
+      "ig": "37.3K",
+      "fb": "275K"
+    },
+    "anatomy": {
+      "lb": {
+        "s": 3,
+        "pt": 4.5
+      },
+      "heart": {
+        "s": 7,
+        "pt": 7
+      },
+      "legs": {
+        "s": 5,
+        "pt": 7.5
+      },
+      "rb": {
+        "s": 2,
+        "pt": 2
+      },
+      "mouth": {
+        "s": 7,
+        "pt": 7
+      },
+      "muscles": {
+        "s": 2,
+        "pt": 5
+      },
+      "hands": {
+        "s": 4,
+        "pt": 6
+      }
+    },
+    "capability": {
+      "res": 3,
+      "com": 0,
+      "hos": 0
+    },
+    "expression": {
+      "tv": 3,
+      "bb": 4,
+      "dig": 2,
+      "cel": 4,
+      "og": 3,
+      "spn": 4
+    }
+  }
+]
