@@ -71,6 +71,7 @@ Every page and developer has a shareable link, e.g. `…/#/explorer/sodic`, `…
 - Interactive Positioning quadrant (click a zone to filter, click a logo for the profile)
 - Regional Scope with cross-chart highlighting and a sortable all-region comparison
 - Anatomy body diagram and Essence donut (hover to preview, click to pin)
+- Collapsible left rail (icon-only mode, remembered per browser)
 - Light/dark theme (remembered per browser), print / PDF export, mobile layout
 
 ---

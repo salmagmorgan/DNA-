@@ -7,16 +7,36 @@ import { useUi } from '../lib/ui';
 import { Icon } from './Icon';
 import { RichText } from './RichText';
 
-export function Sidebar({ route, open, onNavigate }: { route: RouteId; open: boolean; onNavigate: () => void }) {
+interface SidebarProps {
+  route: RouteId;
+  /** Mobile off-canvas state */
+  open: boolean;
+  /** Desktop icon-only state */
+  collapsed: boolean;
+  onToggleCollapsed: () => void;
+  onNavigate: () => void;
+}
+
+export function Sidebar({ route, open, collapsed, onToggleCollapsed, onNavigate }: SidebarProps) {
   const ui = useUi();
   const { meta } = REPORT;
   const isMac = typeof navigator !== 'undefined' && /Mac|iPhone|iPad/.test(navigator.platform);
+  // When collapsed, labels are hidden: expose them as hover hints (custom cursor pill) and to screen readers.
+  const hint = (label: string) => (collapsed ? { 'data-cursor': label, 'aria-label': label } : {});
+  const cls = [open && 'open', collapsed && 'collapsed'].filter(Boolean).join(' ');
+
   return (
-    <aside id="sidebar" className={open ? 'open' : ''}>
+    <aside id="sidebar" className={cls}>
       <div className="side-brand">
         <div className="side-brand-row">
           <img src={asset(meta.brandImages.monogram)} alt={meta.publisher} />
           <div className="wm">{meta.publisher}<span>{meta.publisherTagline}</span></div>
+          <button
+            className="rail-toggle" onClick={onToggleCollapsed} aria-expanded={!collapsed}
+            aria-label={collapsed ? 'Expand sidebar' : 'Collapse sidebar'} data-cursor={collapsed ? 'Expand' : 'Collapse'}
+          >
+            <Icon name="chevronsLeft" strokeWidth={2} />
+          </button>
         </div>
         <div className="side-dna">
           <img src={asset(meta.brandImages.productLogo)} alt="" />
@@ -24,8 +44,10 @@ export function Sidebar({ route, open, onNavigate }: { route: RouteId; open: boo
         </div>
       </div>
       <div className="side-search">
-        <button onClick={ui.openSearch}>
-          <Icon name="search" size={14} strokeWidth={2} /> Search developers, zones, data…<kbd style={{ whiteSpace: 'nowrap' }}>{isMac ? '⌘K' : 'Ctrl K'}</kbd>
+        <button onClick={ui.openSearch} {...hint('Search')}>
+          <Icon name="search" size={14} strokeWidth={2} />
+          <span className="rail-lbl">Search developers, zones, data…</span>
+          <kbd>{isMac ? '⌘K' : 'Ctrl K'}</kbd>
         </button>
       </div>
       <nav id="sidenav">
@@ -36,10 +58,12 @@ export function Sidebar({ route, open, onNavigate }: { route: RouteId; open: boo
               <button
                 key={it.id}
                 className={`nav-item${route === it.id ? ' active' : ''}`}
+                aria-current={route === it.id ? 'page' : undefined}
                 onClick={() => { go(it.id); onNavigate(); }}
+                {...hint(it.label)}
               >
                 <Icon name={it.icon} />
-                <span>{it.label}</span>
+                <span className="rail-lbl">{it.label}</span>
                 {it.ct ? <span className="ct">{it.ct}</span> : null}
               </button>
             ))}
@@ -48,8 +72,8 @@ export function Sidebar({ route, open, onNavigate }: { route: RouteId; open: boo
       </nav>
       <div className="side-foot">
         <div className="side-foot-row">
-          <button className="sfbtn" onClick={ui.openNotes}><Icon name="notes" size={14} strokeWidth={2} />Notes</button>
-          <button className="sfbtn" onClick={toggleTheme}><Icon name="sun" size={14} strokeWidth={2} />Theme</button>
+          <button className="sfbtn" onClick={ui.openNotes} {...hint('Notes')}><Icon name="notes" size={14} strokeWidth={2} /><span className="rail-lbl">Notes</span></button>
+          <button className="sfbtn" onClick={toggleTheme} {...hint('Theme')}><Icon name="sun" size={14} strokeWidth={2} /><span className="rail-lbl">Theme</span></button>
         </div>
         <div className="side-meta mono"><RichText text={meta.footer} /></div>
       </div>
