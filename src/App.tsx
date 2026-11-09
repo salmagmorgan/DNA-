@@ -33,11 +33,22 @@ const VIEWS: Record<RouteId, (p: { param: string | null }) => ReactNode> = {
   compare: () => <Compare />,
 };
 
+const RAIL_KEY = 'dna-rail-collapsed';
+
 export function App() {
   const { route, param } = useRoute();
   const [drawer, setDrawer] = useState<{ open: boolean; title: ReactNode; body: ReactNode }>({ open: false, title: '', body: null });
   const [searchOpen, setSearchOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [railCollapsed, setRailCollapsed] = useState(() => {
+    try { return localStorage.getItem(RAIL_KEY) === '1'; } catch { return false; }
+  });
+  const toggleRail = useCallback(() => {
+    setRailCollapsed((c) => {
+      try { localStorage.setItem(RAIL_KEY, c ? '0' : '1'); } catch { /* storage unavailable */ }
+      return !c;
+    });
+  }, []);
 
   const closeDrawer = useCallback(() => setDrawer((d) => ({ ...d, open: false })), []);
   const ui = useMemo<UiApi>(() => ({
@@ -70,7 +81,10 @@ export function App() {
       <div id="bg-skyline" aria-hidden="true" />
       <CustomCursor />
       <div id="app">
-        <Sidebar route={route} open={menuOpen} onNavigate={() => setMenuOpen(false)} />
+        <Sidebar
+          route={route} open={menuOpen} onNavigate={() => setMenuOpen(false)}
+          collapsed={railCollapsed} onToggleCollapsed={toggleRail}
+        />
         <div id="main">
           <Topbar crumb={routeLabel(route)} onMenu={() => setMenuOpen((o) => !o)} />
           <main id="view" key={`${route}/${param ?? ''}`}>
