@@ -76,9 +76,3 @@ Every page and developer has a shareable link, e.g. `…/#/explorer/sodic`, `…
 ---
 
 Source: The Board Consulting, *Developers' DNA Report*, Strategic Insights 2026.
-
----
-
-## Also in this repository: EEOS
-
-[`eeos/`](eeos/) contains the **Engagement Excellence Operating System**, a separate full-stack app (React + Node + SQLite) with its own README, tests and Dockerfile.
